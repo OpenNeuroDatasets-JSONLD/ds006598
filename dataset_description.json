@@ -1,0 +1,23 @@
+{
+    "Name": "PAN: Precision targeting of Association Networks",
+    "Authors": [
+        "Zach Ladwig",
+	"Kian Z. Kermani",
+	"Ally Dworetsky",
+	"Nathan Labora",
+	"Joanna J. Hernandez",
+	"Megan Dorn",
+	"Derek M. Smith",
+	"Derek Evan Nee",
+	"Rodrigo M. Braga",
+        "Caterina Gratton"
+    ],
+    "BIDSVersion": "1.2.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "fMRIPrep",
+            "Version": "23.2.0"
+        }
+    ]
+}
