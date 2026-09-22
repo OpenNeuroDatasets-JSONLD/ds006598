@@ -12,7 +12,7 @@
         "Rodrigo M. Braga",
         "Caterina Gratton"
     ],
-    "HowToAcknowledge": "When using this data, please cite Ladwig et al., Precision fMRI reveals densely interdigitated network patches with conserved motifs in the lateral prefrontal cortex and include the following: 'This data was obtained from the OpenNeuro database. Its accession number is ds006598'",
+    "HowToAcknowledge": "When using this data, please cite Ladwig et al. 2026, Precision fMRI reveals densely interdigitated network patches with conserved motifs in the lateral prefrontal cortex (https://www.cell.com/neuron/fulltext/S0896-6273(26)00280-1) and include the following: 'This data was obtained from the OpenNeuro database. Its accession number is ds006598'",
     "License": "CC0",
     "BIDSVersion": "1.2.0",
     "DatasetType": "derivative",
