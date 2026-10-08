@@ -4,4 +4,6 @@ In the first two sessions, T1 data was also collected, and in the second two ses
 
 Details of this dataset, including descriptions of tasks, are more fully described here - Ladwig et al., Precision fMRI reveals densely interdigitated network patches with conserved motifs in the lateral prefrontal cortex - https://www.cell.com/neuron/fulltext/S0896-6273(26)00280-1.
 
+The data presented are unprocessed NIFTIs. Task timing files are in the derivatives folder as AFNI .1D files. Future versions of this dataset may include processed CIFTIs. Please reach out if these would be of interest to you.
+
 Processing and analysis code is available here - https://www.github.com/GrattonLab/Ladwig-LPFC.
