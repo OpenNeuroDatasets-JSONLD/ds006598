@@ -1,4 +1,4 @@
-This dataset contains the Precision targeting of Association Networks (PAN) data. Data were collected in 10 individuals over 6-9 separate two-hour scanning sessions. In all sessions, resting-state and task data was collected, totaling approximately 2 hours of resting-state and 6 hours of task-state data per individual. 
+This dataset contains the Precision targeting of Association Networks (PAN) data. Data were collected in 10 individuals over 6-9 separate scanning sessions. In all sessions, resting-state and task data was collected, totaling approximately 2 hours of resting-state and 6 hours of task-state data per individual. 
 
 In the first two sessions, T1 data was also collected, and in the second two sessions, T2 data was collected. 
 
